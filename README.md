@@ -185,7 +185,7 @@ Students generally report medium to high satisfaction levels regarding studies.
 ├── 📂 Dashboard Images
 │   ├── StudentCountAnalysis.png
 │   ├── AcademicPressure(AP)&StudentCount(SC).png
-│   ├── FinancialStress(FS)&StudentCount(SC)(1).png
+│   ├── FinancialStress(FS)&StudentCount(SC).png
 │   ├── SleepDuration(SD)&StudentCount(SC).png
 │   ├── StudyHours(SH)&StudentCount(SC).png
 │   └── StudySatisafaction)(SS)&StudentCount(SC).png
